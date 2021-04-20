@@ -111,7 +111,7 @@ pre-commit==2.2.0
 prompt-toolkit==3.0.5
 psycopg2-binary==2.8.4
 ptyprocess==0.6.0
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.8
 pycodestyle==2.5.0
 pycparser==2.20
